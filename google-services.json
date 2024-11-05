@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "1006101423337",
+    "project_id": "chatapp-36f48",
+    "storage_bucket": "chatapp-36f48.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006101423337:android:4f3ace08a50d977bc8fc78",
+        "android_client_info": {
+          "package_name": "com.yigiitcoskun.ChatApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006101423337-cenus2sd9nfkijrmk0h1n3d6fmqhimnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvCBi_YPuZFBP5kKUZ25bRb8LFX3AJaaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006101423337-cenus2sd9nfkijrmk0h1n3d6fmqhimnd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1006101423337-9cbnjqstvhbjvvr2fsce4uekicrq5brr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yigiitcoskun.ChatApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006101423337:android:5439129548d5d2c7c8fc78",
+        "android_client_info": {
+          "package_name": "com.yigitcoskun.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006101423337-t0341c71r6fbglqpsnrvs7t44696947a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yigitcoskun.firebase",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1006101423337-cenus2sd9nfkijrmk0h1n3d6fmqhimnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvCBi_YPuZFBP5kKUZ25bRb8LFX3AJaaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006101423337-cenus2sd9nfkijrmk0h1n3d6fmqhimnd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1006101423337-9cbnjqstvhbjvvr2fsce4uekicrq5brr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yigiitcoskun.ChatApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
